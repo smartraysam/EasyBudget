@@ -6,3 +6,6 @@ key
 iap.gradle
 Android/EasyBudget/.idea/misc.xml
 Android/EasyBudget/caldroid/build
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
